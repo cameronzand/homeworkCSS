@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+ul {
+  list-style-type: none;
+}
+
+.octocat {
+  float: left;
+  margin-right: 10px;
+}
+
+.octocat img {
+    height: 300px; 
+    width: 300px; 
+    border: solid black;
+    border-width: 1px;
+    border-color: lightgrey;
+      }
+
+.authors img {
+  height: 20px; 
+  width: 20px;
+  float: right;
+  
+  
+}
+
+.authors {
+  float: right;
+  padding-left: 5px; 
+  }
+
+.image-footer {
+  border: grey; 
+ 
+
+  }
+
+.image-number {
+  float: left; 
+  color: lightgrey;
+  
+  
+}
+
+.image-caption {
+  float: right; 
+}
+
+a {
+  color: black; 
+}
+
+span {
+  color: grey; 
+}
